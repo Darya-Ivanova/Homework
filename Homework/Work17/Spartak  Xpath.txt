@@ -1,0 +1,5 @@
+.//img [@id="bx_290038399_36"]
+.//a [@href="/catalog/pechene/"] //img
+.//li [@aria-hidden="false"] //img [@alt="Кондитерская Фабрика"]
+.//a [@href="/contacts/affiliates/"]
+.//header [@class="section-header"] //h2 [text()='О компании']
